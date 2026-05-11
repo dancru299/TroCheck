@@ -1,0 +1,9 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#F5F7F8"/>
+  <rect x="112" y="92" width="976" height="446" rx="28" fill="white" stroke="#D9DEE3" stroke-width="2"/>
+  <path d="M243 151L193 303H272L226 479L386 251H292L338 151H243Z" fill="#047A34"/>
+  <text x="435" y="226" fill="#111827" font-family="Arial, sans-serif" font-size="84" font-weight="800">TroCheck</text>
+  <text x="438" y="300" fill="#334155" font-family="Arial, sans-serif" font-size="34">Kiểm tra hóa đơn phòng trọ trong 30 giây</text>
+  <text x="438" y="393" fill="#D71920" font-family="Arial, sans-serif" font-size="70" font-weight="800">+287.000đ</text>
+  <text x="438" y="448" fill="#667085" font-family="Arial, sans-serif" font-size="28">Ước tính theo giá sinh hoạt EVN, HCM và Hà Nội</text>
+</svg>
